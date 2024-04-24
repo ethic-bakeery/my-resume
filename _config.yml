@@ -16,7 +16,7 @@ facebook_username: facebook
 youtube_username: youtube
 blog_url: homepage-url
 
-baseurl: /resume-demo
+baseurl: /my-resume
 
 exclude:
   - _posts/
