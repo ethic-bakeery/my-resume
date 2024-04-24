@@ -2,21 +2,21 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: WebApp Security
+    role: Bug Bounty Hunter
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Short time bug bounty hunter on YesWeHack platform
+      # - Pro user on '*Try Hack Me*' and '*Hack The Box*'
+    date: Jan. 2023 - Ongoing
+  - title: Hands-On Cyber Security Training
+    role: Learning and Practising Hands on Hacking  on '*Try Hack Me*', '*Hack The Box*' and '*Portswigger*' platform
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Engage in practical hacking exercises to learn and refine cybersecurity skills through interactive challenges and simulations.
+      - Get involved in fun and interactive cybersecurity challenges to learn and practice essential skills, making learning cybersecurity enjoyable and accessible.
+    date: Jan. 2021 - Ongoing
+  # - title: Pacebook
+  #   role: Software Engineer Intern
+  #   description: 
+  #     - Designed the dynamic website using React for data visualization
+  #     - Integrated '*Yolo*' to boost the accuracy of the object detection
+  #   date: Jul. 2013 - Sep. 2013
