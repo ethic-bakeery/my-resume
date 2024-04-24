@@ -1,20 +1,20 @@
-title: Title of your CV site
+title: About me
 profile_img: /assets/img/profile.webp
 icon_img: /assets/img/icon.webp
 
-name: "Your Name Here"
-job: "〈Your Job Here〉"
+name: "Abubakar Usman"
+job: " junior Pentester "
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: +2349030327468
+address: Yola North, Nigeria
+email: abu3274768@gmail.com
+linkedin_username: abubakar-usman-011115263
+github_username: ethic-bakeery
+instagram_username: _bakeery
+twitter_username: fckbwn
+facebook_username: Bakeery
 youtube_username: youtube
-blog_url: homepage-url
+blog_url: https://ethic-bakeery.github.io/
 
 baseurl: /my-resume
 
