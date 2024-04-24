@@ -2,17 +2,18 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Modibbo Adama University, Diploma in Infomation Technology
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Introduction to operations research, inferential and quantitative statistics, and probability.
+      - Fundamentals of networking, programming, and information security.
+      - Comprehensive training in database management systems and software engineering principles.
+      - Hands-on experience in troubleshooting hardware and software issues.
+      - Emphasis on applying technology solutions to real-world business challenges.
+    date: Jan. 2020 - Feb. 2022
+    grade: "**CGPA**: `4.0/5.0`"
+  - title: SRM institute of Science and Technology, Bachelor in Computer Science and Engineering with Specialization of Cyber Security
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Rigorous curriculum encompassing core computer science principles, advanced programming languages, and algorithms.
+      - Specialized focus on cybersecurity, covering topics such as cryptography, network security, ethical hacking, and digital forensics.
+    date: July. 2022 - June. 2026
+  
