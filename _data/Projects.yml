@@ -14,7 +14,7 @@ contents:
       - Teachers register and receive approval from admins, who then set questions, while teachers oversee the exam
       - "Technology Used: HTML, CSS, Python Django Framework,"
     # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://github.com/ethic-bakeery/EggGame/](https://github.com/ethic-bakeery/EggGame))" 
+  - title: "Egg game ([https://github.com/ethic-bakeery/EggGame/](https://github.com/ethic-bakeery/EggGame))" 
     description: 
       - An egg-catching game where players catch eggs in a basket.
       - "Technology Used: Java"
